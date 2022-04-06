@@ -19,8 +19,7 @@ import java.util.*;
 
 public class Main {
     /**
-     * @param args
-     * @exception Exception or (should be) IOException thrown if java cannot read file
+     * @param args - main method
      * <p>This is the main method. It reads a text file into an SortedSet. Then prints the words in ascending order using an Iterator. </p>
      */
 
